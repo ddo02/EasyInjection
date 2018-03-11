@@ -16,9 +16,9 @@ F8 "http://uk.rs-online.com/web/p/products/3511351" 750 -600 50 H I L CNN "RS Pr
 F9 "70389716" 750 -700 50 H I L CNN "Allied_Number"
 F10 "http://www.alliedelec.com/stmicroelectronics-vnd5n07-e/70389716/" 750 -800 50 H I L CNN "Allied Price/Stock"
 DRAW
-X G 1 0 -50 200 R 50 50 0 0 B
-X S 2 500 300 200 D 50 50 0 0 B
-X D 3 500 -400 200 U 50 50 0 0 B
+X G 1 0 -50 200 R 50 50 0 0 P
+X D 2 500 300 200 D 50 50 0 0 P
+X S 3 500 -400 200 U 50 50 0 0 P
 P 5 0 1 6 200 100 700 100 700 -200 200 -200 200 100 N
 ENDDRAW
 ENDDEF

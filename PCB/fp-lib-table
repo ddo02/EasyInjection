@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name VND5N07-E)(type Legacy)(uri "$(KIPRJMOD)/LIB/VND5N07-E.mod")(options "")(descr ""))
+  (lib (name VND5N07)(type KiCad)(uri "$(KIPRJMOD)/LIB/VND5N07.pretty")(options "")(descr ""))
 )
