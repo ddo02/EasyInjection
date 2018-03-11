@@ -1,5 +1,5 @@
 # EasyInjection
-EasyInjection is module to drive fuel injectors. It has 4 channels.
+EasyInjection is a module to drive fuel injectors. It has 4 channels.
 
 Some aftermarket EFIs has only low power signal output to activate injectors.
 
@@ -14,7 +14,7 @@ VND5N07 is a power MOSFET fully autoprotected.
 
 It's a great option to drive fuel injectors with a minimum set of components.
 
-EasyInjection can be used with high-z injectos, but some low-z injectors can be used (specially if use a in serie resistor), pois VND5N07 supplies up to 5A.
+EasyInjection can be used with high-z injectors, but some low-z injectors can be used (specially if use a in serie resistor), because VND5N07 supplies up to 5A.
 
 The project was developed using Kicad EDA.
 
