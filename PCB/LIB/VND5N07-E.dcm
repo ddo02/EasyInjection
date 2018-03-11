@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VND5N07-E
+D Power Switch Low-Side OMNIFET 5A TO252 STMicroelectronics VND5N07-E Intelligent Power Switch, OMNIFET: Fully Autoprotected Power MOSFET, 5A, 70V, 3-Pin
+F http://www.st.com/web/en/resource/technical/document/datasheet/DM00091993.pdf
+$ENDCMP
+#
+#End Doc Library
