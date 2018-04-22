@@ -5,7 +5,7 @@ Some aftermarket EFIs has only low power signal output to activate injectors.
 
 So, an external driver is needed. The EasyInjection can be this driver.
 
-EasyInjection works perfectly with MegaSquit EFI.
+EasyInjection works perfectly with MegaSquirt EFI.
 
 # Technical Information
 EasyInjection is based on VND5N07.
