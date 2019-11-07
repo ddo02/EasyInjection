@@ -1,5 +1,5 @@
 # EasyInjection
-EasyInjection is a module to drive fuel injectors. It has 4 channels.
+EasyInjection is a module to drive fuel injectors (or other loads). It has 5 channels.
 
 Some aftermarket EFIs has only low power signal output to activate injectors.
 
@@ -21,21 +21,23 @@ The project was developed using Kicad EDA.
 # Usage
 EasyInjection works switching the ground (GND).
 
-Pins 3 and 8 must be connected to a good engine ground.
+Pins 6 and 12 must be connected to a good engine ground.
 
 ### Input signals (from EFI):
 
-- Channel 1: Pin 2
-- Channel 2: Pin 1
-- Channel 3: Pin 5
+- Channel 1: Pin 1
+- Channel 2: Pin 2
+- Channel 3: Pin 3
 - Channel 4: Pin 4
+- Channel 5: Pin 5
 
 ### Output (to injector):
 
-- Channel 1: Pin 6
-- Channel 2: Pin 7
+- Channel 1: Pin 7
+- Channel 2: Pin 6
 - Channel 3: Pin 9
 - Channel 4: Pin 10
+- Channel 4: Pin 11
 
 
 More than one injector can be drive by channel, with 5A current limit for each channel.
