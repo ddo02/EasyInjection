@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name EasyInjection-rescue)(type Legacy)(uri ${KIPRJMOD}/EasyInjection-rescue.lib)(options "")(descr ""))
+)
