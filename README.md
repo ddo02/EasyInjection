@@ -34,10 +34,10 @@ Pins 6 and 12 must be connected to a good engine ground.
 ### Output (to injector):
 
 - Channel 1: Pin 7
-- Channel 2: Pin 6
+- Channel 2: Pin 8
 - Channel 3: Pin 9
 - Channel 4: Pin 10
-- Channel 4: Pin 11
+- Channel 5: Pin 11
 
 
 More than one injector can be drive by channel, with 5A current limit for each channel.
